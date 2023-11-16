@@ -1,0 +1,17 @@
+#!/bin/bash      
+#title           :
+#description     :
+#author		 : Rural Dev C's
+#date            : 22-10-2018
+#version         : 1.0    
+#Tel		 : +2348065319402
+
+name="John Jesubande"
+MFD=22102018
+title='Mr'
+role='DevOps Engineer'
+echo "The name varibale value is: "$name
+echo "The id variable value is: "$MFD
+echo 'He prefers the title' $title 'and he is also a '$role
+
+

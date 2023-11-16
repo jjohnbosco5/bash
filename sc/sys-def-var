@@ -1,0 +1,14 @@
+#!/bin/bash      
+#title           :
+#description     :
+#author		 : Jesubande John
+
+echo "SHELL is: " ${SHELL}
+echo "HOME is: " ${HOME}
+echo 'OS TYPE is: '$OSTYPE
+echo 'Your Hostname is' $HOSTNAME
+echo 'Your current working directory is' $PWD
+echo 'Your User ID is' $UID
+echo $PATH
+echo 'Your Date and Time is'
+date
